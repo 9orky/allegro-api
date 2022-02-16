@@ -1,0 +1,9 @@
+# OfferEventExternalOffer
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**external** | [**\Swagger\Client\Model\ExternalId**](ExternalId.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

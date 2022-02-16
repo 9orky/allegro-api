@@ -1,0 +1,10 @@
+# OfferRequirements
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** | The id of the offer that can be associated with this product. | [optional] 
+**parameters** | [**\Swagger\Client\Model\ProductParameter[]**](ProductParameter.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
